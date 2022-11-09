@@ -1,8 +1,7 @@
 import './styles.css';
 import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
-import { Link } from 'gatsby'
-import { GlobalStyle } from './globalStyles';
+import { GlobalStyle } from '../components/globalStyles';
 import { Banner } from '../components/Banner';
 import { Description } from '../components/Description';
 import { Features } from '../components/Features';
