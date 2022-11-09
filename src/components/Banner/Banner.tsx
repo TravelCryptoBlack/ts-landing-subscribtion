@@ -4,7 +4,7 @@ import { Link } from '../Link';
 
 const Cover = styled('div')`
     height: 100vh;
-    background-image: url(/frankdenney91407.jpg);
+    background-image: url(frankdenney91407.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;

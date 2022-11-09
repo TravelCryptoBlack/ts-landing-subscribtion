@@ -58,7 +58,7 @@ export const Contact = React.memo(() => {
                 <div className="t107">
                     <div className="t-align_center">
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAlLCuulQrbweiCTkAVPy-NMvP1nY64l0bnpvljGfWIn0KXA/viewform?usp=sharing" target="">
-                            <img className="t107__widthauto t-img" src="/subscribe_button.png"/>
+                            <img className="t107__widthauto t-img" src="subscribe_button.png"/>
                         </a>
                     </div>
                 </div>

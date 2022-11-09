@@ -1,6 +1,7 @@
 import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
+  pathPrefix: "/ts-landing-subscribtion",
   siteMetadata: {
     title: `ts-landing-tilda`,
     siteUrl: `https://www.yourdomain.tld`

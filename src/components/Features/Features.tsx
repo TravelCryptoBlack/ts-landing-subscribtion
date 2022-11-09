@@ -49,7 +49,7 @@ export const Features = React.memo(() => {
                     </div>
                     <FeaturesCols className="t-container">
                         <ColWrapper className="t490__col t-col t-col_4 t-align_center t-item">
-                            <img className="t490__img t-img" src="/Screenshot_2022-10-2.png" />
+                            <img className="t490__img t-img" src="Screenshot_2022-10-2.png" />
                             <div className="t490__wrappercenter ">
                                 <div className="t-name t-name_xl">
                                     <ColTitle>Gamified</ColTitle>
@@ -60,7 +60,7 @@ export const Features = React.memo(() => {
                             </div>
                         </ColWrapper>
                         <ColWrapper className="t490__col t-col t-col_4 t-align_center t-item">
-                            <img className="t490__img t-img" src="/easy_to_use.png"/>
+                            <img className="t490__img t-img" src="easy_to_use.png"/>
                             <div className="t490__wrappercenter ">
                                 <div className="t-name t-name_xl">
                                     <ColTitle>Easy to use</ColTitle>
@@ -71,7 +71,7 @@ export const Features = React.memo(() => {
                             </div>
                         </ColWrapper>
                         <ColWrapper className="t490__col t-col t-col_4 t-align_center t-item">
-                            <img className="t490__img t-img" src="/social.png" />
+                            <img className="t490__img t-img" src="social.png" />
                             <div className="t490__wrappercenter ">
                                 <div className="t-name t-name_xl">
                                     <ColTitle>Sociable</ColTitle>
